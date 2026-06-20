@@ -1,5 +1,65 @@
-# 💫 About Me:
-Create a modern, professional, recruiter-focused GitHub Profile README for **Prateek Kumar**.<br><br>Theme:<br><br>* AI Engineer / ML Engineer / Software Developer<br>* Clean, premium, ATS-friendly<br>* Dark mode compatible<br>* Modern badges and visuals<br>* No cringe animations or unnecessary GIFs<br>* Focus on impact, projects, hackathons, and open-source contributions<br><br>Personal Information:<br><br>* Name: Prateek Kumar<br>* B.Tech Electronics & Communication Engineering<br>* Product Intern at Vakildesk Technologies<br>* Co-Organizer & VP, Google Developer Groups (GDG) On Campus<br>* Passionate about AI, LLMs, RAG, Document Intelligence, Computer Vision, NLP, Backend Engineering, and Automation<br><br>Tech Stack:<br>Languages:<br>Python, C++, JavaScript, SQL<br><br>AI / ML:<br>LLMs, RAG, Gemini, Vertex AI, OCR, NLP, Computer Vision, YOLOv8, EfficientNet, XGBoost, Isolation Forest, SHAP<br><br>Backend:<br>FastAPI, Flask, Node.js<br><br>Databases:<br>MongoDB, Pinecone, Neo4j<br><br>Tools:<br>Docker, Git, Linux, Selenium, Playwright, NetworkX<br><br>Professional Experience:<br>Vakildesk Technologies<br><br>* Built NavioLex, a multimodal document intelligence platform<br>* Developed OCR + LLM pipelines<br>* Built large-scale court automation and document processing systems<br>* Managed Linux-based production deployments<br><br>Featured Projects:<br><br>1. Krishi-Mitra<br><br>* AI-powered farmer advisory platform<br>* RAG + Gemini + Whisper AI<br>* YOLOv8 + EfficientNet crop disease detection<br>* FastAPI microservices<br>* Hyperlocal agricultural forecasting<br><br>2. DhanRakshak<br><br>* AI underwriting fraud detection platform<br>* LayoutLMv3, Neo4j, Isolation Forest, SHAP<br>* Fraud analytics, risk scoring, explainable AI<br>* OCR + NLP + Document Forensics<br><br>3. NavioLex<br><br>* Multimodal document intelligence system<br>* OCR, NLP, LLMs, information extraction<br>* Legal and compliance workflow automation<br><br>Achievements:<br><br>* 2nd Runner Up - Shark Tank JCBUST<br>* Top 6 Finalist - HackFest 2026<br>* Selected for Protex Protégé Program<br>* GDG Campus Leadership<br>* Multiple national-level hackathon finalist<br><br>Sections Required:<br><br>1. Hero Section with professional introduction<br>2. About Me<br>3. Current Focus<br>4. Tech Stack<br>5. Featured Projects<br>6. Experience<br>7. Achievements<br>8. GitHub Statistics<br>9. Contribution Graph<br>10. Connect With Me<br>11. Fun Facts<br>12. Open Source & Collaboration<br><br>Writing Style:<br><br>* Professional and concise<br>* Recruiter-friendly<br>* Quantify achievements where possible<br>* Emphasize building real-world AI systems rather than coursework<br>* Highlight problem-solving, product building, and engineering mindset<br>* Make the profile look like a strong AI Engineer / Software Engineer candidate rather than a student<br><br>Generate the complete GitHub README in polished Markdown with badges, icons, GitHub stats cards, streak stats, contribution graph, social links, and project showcase cards.<br>
+```md
+# 💫 About Me
+
+## 👨‍💻 AI Engineer | Product Builder | Open Source Enthusiast
+
+I'm **Prateek Kumar**, a Product Intern at **Vakildesk Technologies** and Co-Organizer & VP at **Google Developer Groups (GDG) On Campus**.
+
+I build intelligent systems using **LLMs, RAG, OCR, NLP, Computer Vision, and Graph Intelligence**, focusing on solving real-world problems in document processing, fraud detection, and automation.
+
+🔭 Currently building AI-powered Document Intelligence & Fraud Detection Systems
+
+🌱 Exploring Agentic AI, Multimodal LLMs, Graph AI, and Explainable AI
+
+🚀 Passionate about AI Engineering, Backend Systems, Automation, and Open Source
+
+⚡ Building products that create measurable impact rather than research prototypes
+
+---
+
+## 🏆 Highlights
+
+- 🥈 2nd Runner Up — Shark Tank JCBUST
+- 🏅 Top 6 Finalist — HackFest 2026
+- 🎖️ Selected for Protex Protégé Program
+- 🚀 GDG Campus Leadership
+- 💡 Multiple National-Level Hackathon Finalist
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 NavioLex
+Multimodal document intelligence platform supporting OCR, information extraction, and legal workflow automation.
+
+### 🛡️ DhanRakshak
+AI-powered underwriting fraud detection platform leveraging LayoutLMv3, Neo4j, Isolation Forest, SHAP, OCR, NLP, and Explainable AI.
+
+### 🌾 Krishi-Mitra
+RAG-powered agricultural advisory platform featuring Gemini, Whisper AI, YOLOv8 disease detection, and hyperlocal forecasting.
+
+---
+
+## 🌱 Currently Learning
+
+- Agentic AI Systems
+- Multi-Agent Workflows
+- Graph AI & Knowledge Graphs
+- Advanced RAG Architectures
+- Scalable AI Infrastructure
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI/ML Projects
+- LLM Applications
+- RAG Systems
+- Computer Vision
+- Backend Engineering
+- Open Source Contributions
+```
+
 
 
 ## 🌐 Socials:
